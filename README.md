@@ -1,6 +1,9 @@
 # Toxic-Comments-Detection-Using-Bi-LSTM
 Toxic Comment Classification This project is a machine learning model designed to detect toxic comments in text data. It uses a Bidirectional LSTM neural network to classify comments into multiple categories of toxicity, such as toxic, severe_toxic, obscene, threat, insult, and identity_hate. The model is trained on the Jigsaw Toxic Comment Classification Challenge dataset.
 
+
+Dataset resource: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+
 The project includes:
 
 Data preprocessing using TensorFlow's TextVectorization.
