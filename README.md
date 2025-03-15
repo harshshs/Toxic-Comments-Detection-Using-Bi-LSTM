@@ -23,8 +23,6 @@ Deployment
 
 Contributing
 
-License
-
 Installation To set up the project, follow these steps:
 
 Clone the repository:
